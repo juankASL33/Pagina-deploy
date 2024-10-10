@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blowfish</title>
-    <link>http://example.org/</link>
+    <link>https://juank.netlify.app/</link>
     <description>Recent content on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 </copyright>
-    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://juank.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Servicios</title>
-      <link>http://example.org/services/</link>
+      <link>https://juank.netlify.app/services/</link>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/services/</guid>
+      <guid>https://juank.netlify.app/services/</guid>
       <description>Nuestros Servicios # Ofrecemos una amplia gama de servicios para satisfacer las necesidades de nuestros clientes.</description>
       
     </item>
     
     <item>
       <title>Juank ASL</title>
-      <link>http://example.org/juank/</link>
+      <link>https://juank.netlify.app/juank/</link>
       <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/juank/</guid>
+      <guid>https://juank.netlify.app/juank/</guid>
       <description>Bienvenidos a Mi Página Web # Este es un párrafo de prueba para mi primera página web estatica.</description>
       
     </item>
     
     <item>
       <title>Contacto</title>
-      <link>http://example.org/contact/</link>
+      <link>https://juank.netlify.app/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/contact/</guid>
+      <guid>https://juank.netlify.app/contact/</guid>
       <description>Pagina de contacto # Informacion de contacto.</description>
       
     </item>
